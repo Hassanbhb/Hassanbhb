@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan ben haj bouih</h1>
 <h3 align="center">I am Full-stack developer,</h3>
 
-<p align="left"> <a href="https://twitter.com/hassan_bhb" target="blank"><img src="https://img.shields.io/twitter/follow/hassan_bhb?logo=twitter&style=for-the-badge" alt="hassan_bhb" /></a> </p>
 
 - 🔭 I’m currently working on [Morocco in data](https://moroccoindata.streamlit.app/)
 
