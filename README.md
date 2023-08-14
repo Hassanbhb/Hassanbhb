@@ -18,7 +18,7 @@ I'm a full stack developer, Most of my time is spent learning and building fast 
 | TailwindCSS       | Python   | Django        | 
 | Javascript        | PHP      | Flask         |
 
-<p><img align="center" src="https://github-readme-stats-two-mu-26.vercel.app/api/top-langs?username=hassanbhb&show_icons=true&locale=en&layout=compact" alt="hassanbhb" /></p>
+<p><img align="center" src="https://github-readme-stats-two-mu-26.vercel.app/api/top-langs?username=hassanbhb&show_icons=true&locale=en&layout=compact" alt="hassanbhb" decoding="async" loading="lazy" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
