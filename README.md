@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hassan ben haj bouih</h1>
-<h3 align="center">I am Full-stack developer,</h3>
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%23FE675D?style=for-the-badge&link=https%3A%2F%2Fhassanbenhajbouih.com">
+</div>
 
 
-I'm a full stack developer, Most of my time is spent learning and building fast and efficient Websites.
+div'm a  <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%23FE675D?style=for-the-badge&link=https%3A%2F%2Fhassanbenhajbouih.com">
+stpof my time is spent learning and building fast and efficient Websitesdiv
 
 
 
@@ -20,7 +23,9 @@ I'm a full stack developer, Most of my time is spent learning and building fast 
 
 <p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=hassanbhb&show_icons=true&locale=en&layout=compact" alt="hassanbhb" decoding="async" loading="lazy" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<p divlign="left
+  <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%23FE675D?style=for-the-badge&link=https%3A%2F%2Fhassanbenhajbouih.com">
+  hdivp
 <p align="left">
 <p>My email : hassan.benhajbouih@gmail.com</p> 
 <a href="https://twitter.com/hassan_bhb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassan_bhb" height="30" width="40" /></a>
