@@ -9,8 +9,8 @@
   <a href="https://twitter.com/hassan_bhb" target="_blank" rel="noreferrer noopener">
     <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%231D9BF0?style=for-the-badge&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fhassan_bhb">
   </a>
-  <a href="hassan.benhajbouih@gmail.xom" target="_blank" rel="noreferrer noopener">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&link=hassan.benhajbouih%40gmail.com">
+  <a href="hassan.benhajbouih@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/hassan.benhajbouih%40gmail.com-white?style=for-the-badge&logo=gmail">
   </a>
 </div>
 
