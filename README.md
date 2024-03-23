@@ -23,7 +23,7 @@ I'm a Full-Stack developer, Most of my time is spent learning and building the w
 
 👩‍💻 I'm currently working on maintaining Morocco in data project
 
-🧠 I'm currently learning [Astro](https://astro.build/)
+🧠 I'm currently learning [Astro](https://astro.build/) & Laravel
 
 ## 🛠 Skills
 | Front-end         | Back-end | Frameworks    | Databases | Design  |
