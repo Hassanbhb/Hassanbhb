@@ -5,7 +5,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://hassanbenhajbouih.com" target="_blank" rel="noreferrer noopener">
+  <a href="https://hassanbhb.com" target="_blank" rel="noreferrer noopener">
     <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%23FE675D?style=for-the-badge&link=https%3A%2F%2Fhassanbenhajbouih.com">
   </a>
   <a href="https://www.linkedin.com/in/hassanbenhajbouih/" target="_blank" rel="noreferrer noopener">
@@ -21,17 +21,15 @@
 I'm a Full-Stack developer, Most of my time is spent learning and building the web.
 
 
-👩‍💻 I'm currently working on maintaining Morocco in data project
-
 🧠 I'm currently learning [Astro](https://astro.build/) & Laravel
 
 ## 🛠 Skills
-| Front-end         | Back-end | Frameworks    | Databases | Design  |
-| ----------------- | ---------| --------------| ----------| --------|
-| HTML5             | NodeJs   | React         | MongoDB   | Figma   |
-| CSS3              | express  | Astro         | SQLite    |
-| TailwindCSS       | Python   | Django        | 
-| Javascript        | PHP      | Flask         |
+| Front-end         | Back-end | Frameworks    | Databases |
+| ----------------- | ---------| --------------| ----------|
+| HTML5             | PHP      | React         | MySQL     |
+| CSS3              | C#       | Astro         | SQLite    |
+| TailwindCSS       |          | Laravel       | 
+| Javascript        |          | Inertia       |
 
 
 <p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=hassanbhb&show_icons=true&locale=en&layout=compact" alt="hassanbhb" decoding="async" loading="lazy" /></p>
