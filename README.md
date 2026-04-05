@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hassan ben haj bouih</h1>
+<h1 align="center">Hi</h1>
 <div align="center">
   <a align="center" href="mailto:hassan.benhajbouih@gmail.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/hassan.benhajbouih%40gmail.com-white?style=for-the-badge&logo=gmail">
@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<br/>
+<!-- <br/>
 
 I'm a Full-Stack developer, Most of my time is spent learning and building the web.
 
@@ -32,7 +32,7 @@ I'm a Full-Stack developer, Most of my time is spent learning and building the w
 | Javascript        |          | Inertia       |
 
 
-<p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=hassanbhb&show_icons=true&locale=en&layout=compact" alt="hassanbhb" decoding="async" loading="lazy" /></p>
+<p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=hassanbhb&show_icons=true&locale=en&layout=compact" alt="hassanbhb" decoding="async" loading="lazy" /></p> -->
 
 
 
